@@ -15,3 +15,4 @@ HTML, CSS, JavaScript.
 Usage:
 Open the HTML file in any browser.
 
+Live Demo: https://note-app-byritik.netlify.app/
